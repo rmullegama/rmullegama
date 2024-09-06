@@ -2,8 +2,7 @@
 - 👀 I’m interested in Bioinformatics, Data Science + A.I
 - 🌱 I’m currently learning Python, MATLAB, Deep learning
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
-- 😄 Pronouns: ...
+- 📫 How to reach me: rmullegama01@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
